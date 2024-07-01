@@ -1,0 +1,5 @@
+nginx
+#支持私库
+k8s.gcr.io/kube-state-metrics/kube-state-metrics
+#指定框架
+--platform=linux/arm64
